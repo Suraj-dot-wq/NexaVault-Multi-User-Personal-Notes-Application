@@ -248,9 +248,9 @@ Personal-Notes-App/
 
 ## Screenshotes:
 
-<img width="1917" height="907" alt="Screenshot 2026-10-14 211721" src="https://github.com/user-attachments/assets/a8bf4a2e-ffd5-48b3-8ddc-85fc8ebe7554" />
-<img width="1915" height="916" alt="Screenshot 2026-10-14 211806" src="https://github.com/user-attachments/assets/6f748c14-986e-4043-89b4-34c4cfdd1c2c" />
-<img width="1916" height="911" alt="Screenshot 2026-10-14 211651" src="https://github.com/user-attachments/assets/05c7e0a9-ccfb-4298-bfb7-6287972ab229" />
+<img width="400"  alt="Screenshot 2026-10-14 211721" src="https://github.com/user-attachments/assets/a8bf4a2e-ffd5-48b3-8ddc-85fc8ebe7554" />
+<img width="400"  alt="Screenshot 2026-10-14 211806" src="https://github.com/user-attachments/assets/6f748c14-986e-4043-89b4-34c4cfdd1c2c" />
+<img width="400"  alt="Screenshot 2026-10-14 211651" src="https://github.com/user-attachments/assets/05c7e0a9-ccfb-4298-bfb7-6287972ab229" />
 
 
 
